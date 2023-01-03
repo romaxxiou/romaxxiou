@@ -2,9 +2,9 @@
 
 ###
 
-##<div align="center">
-  ##<img height="" src="https://github.com/AbTrax/AbTrax/blob/main/Abtrax%20Gif.png?raw=true"  />
-##</div>
+<!-- <div align="center">
+  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/Abtrax%20Gif.png?raw=true"  />
+</div> -->
 
 ###
 
